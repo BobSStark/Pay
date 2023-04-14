@@ -1,0 +1,3 @@
+chek       | firefox | chrome | opera
+email      | passed  | passed | no run
+validation | failed  | passed | failed
